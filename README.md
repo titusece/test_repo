@@ -1,2 +1,4 @@
 # test_repo
-Created repo for testing
+i) autoreconf --install --force
+ii) ./configure
+iii) make
